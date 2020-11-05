@@ -1,1 +1,0 @@
-# Udacity Plagiarism Detection Project
